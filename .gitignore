@@ -1,0 +1,5 @@
+.idea/*
+out/*
+data/*
+!data/.gitkeep
+knights_tour.iml

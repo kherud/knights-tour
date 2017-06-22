@@ -1,0 +1,5 @@
+- the tool searches for directed tours which there are twice as much of as undirected ones since every route can be passed from two directions. E.g. for a 6x6 field there is a total of 2 x 9.862 = 19724 directed routes.
+
+- the enable animation / show solution options may still be toggled if the process was already started
+
+- solutions are recorded in the hsql database "knights_tour" within /data

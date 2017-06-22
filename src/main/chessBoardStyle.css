@@ -1,0 +1,10 @@
+.blueBorder {
+    -fx-border-color: #ADD8E6;
+    -fx-border-insets: -5;
+    -fx-border-width: 5;
+    -fx-border-style: solid;
+}
+
+#solutionPane {
+    -fx-background-color: F4F4F4;
+}
